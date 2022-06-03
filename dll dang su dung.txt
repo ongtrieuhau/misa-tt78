@@ -1,0 +1,9 @@
+Lấy token:
+	Gọi qua web: với các thông tin appid,taxcode,username,password
+Tạo hóa đơn:
+	MISA.MeInvoice.Lib2.CreateEInvoice(List<OriginalInvoiceData> invoiceData, X509Certificate2 cert);
+Xóa hóa đơn:
+	MISA.MeInvoice.Lib2.DeleteInvoice(MISA.MeInvoice.DataContract.Parameter.CreateDeleteInvoiceParameter deletedInvoiceInfo)
+Tải hóa đơn:
+	MISA.MeInvoice.Lib2.DownloadInvoice(List<string> transactionIDList, DownloadDataType downloadDataType)
+	MISA.MeInvoice.Lib2.ConvertInvoiceToPaper(string converter, List<string> transactionIDList)
