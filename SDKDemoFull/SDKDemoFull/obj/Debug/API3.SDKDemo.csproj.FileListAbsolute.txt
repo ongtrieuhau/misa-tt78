@@ -1,0 +1,6 @@
+D:\MISA JSC\API3.SDKDemo\API3.SDKDemo\obj\Debug\API3.SDKDemo.frmLogin.resources
+D:\MISA JSC\API3.SDKDemo\API3.SDKDemo\obj\Debug\API3.SDKDemo.frmMain.resources
+D:\MISA JSC\API3.SDKDemo\API3.SDKDemo\obj\Debug\API3.SDKDemo.Properties.Resources.resources
+D:\MISA JSC\API3.SDKDemo\API3.SDKDemo\obj\Debug\API3.SDKDemo.csproj.GenerateResource.cache
+D:\MISA JSC\API3.SDKDemo\API3.SDKDemo\obj\Debug\API3.SDKDemo.csproj.CoreCompileInputs.cache
+D:\MISA JSC\API3.SDKDemo\API3.SDKDemo\obj\Debug\API3.SDKDemo.csproj.AssemblyReference.cache

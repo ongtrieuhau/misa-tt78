@@ -1,0 +1,82 @@
+D:\MISA JSC\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\bin\Debug\MISA.MeInvoice.SDK.dll
+D:\MISA JSC\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\bin\Debug\MISA.MeInvoice.SDK.pdb
+D:\MISA JSC\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\bin\Debug\Newtonsoft.Json.dll
+D:\MISA JSC\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\bin\Debug\Newtonsoft.Json.xml
+D:\MISA JSC\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\obj\Debug\MISA.MeInvoice.SDK.Properties.Resources.resources
+D:\MISA JSC\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\obj\Debug\API3.SDK.csproj.GenerateResource.cache
+D:\MISA JSC\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\obj\Debug\API3.SDK.csproj.CoreCompileInputs.cache
+D:\MISA JSC\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\obj\Debug\API3.SDK.csproj.CopyComplete
+D:\MISA JSC\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\obj\Debug\MISA.MeInvoice.SDK.dll
+D:\MISA JSC\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\obj\Debug\MISA.MeInvoice.SDK.pdb
+D:\Project\API3.SDK\API3.SDK\bin\Debug\API3.SDK.dll
+D:\Project\API3.SDK\API3.SDK\bin\Debug\API3.SDK.pdb
+D:\Project\API3.SDK\API3.SDK\bin\Debug\Newtonsoft.Json.dll
+D:\Project\API3.SDK\API3.SDK\bin\Debug\Newtonsoft.Json.xml
+D:\Project\API3.SDK\API3.SDK\obj\Debug\API3.SDK.Properties.Resources.resources
+D:\Project\API3.SDK\API3.SDK\obj\Debug\API3.SDK.csproj.GenerateResource.cache
+D:\Project\API3.SDK\API3.SDK\obj\Debug\API3.SDK.csproj.CoreCompileInputs.cache
+D:\Project\API3.SDK\API3.SDK\obj\Debug\API3.SDK.csproj.CopyComplete
+D:\Project\API3.SDK\API3.SDK\obj\Debug\API3.SDK.dll
+D:\Project\API3.SDK\API3.SDK\obj\Debug\API3.SDK.pdb
+D:\Project\SDKDemoFull\API3.SDK\API3.SDK\bin\Debug\API3.SDK.dll
+D:\Project\SDKDemoFull\API3.SDK\API3.SDK\bin\Debug\API3.SDK.pdb
+D:\Project\SDKDemoFull\API3.SDK\API3.SDK\bin\Debug\Newtonsoft.Json.dll
+D:\Project\SDKDemoFull\API3.SDK\API3.SDK\bin\Debug\Newtonsoft.Json.xml
+D:\Project\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.Properties.Resources.resources
+D:\Project\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.csproj.GenerateResource.cache
+D:\Project\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.csproj.CoreCompileInputs.cache
+D:\Project\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.csproj.CopyComplete
+D:\Project\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.dll
+D:\Project\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.pdb
+D:\Project\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.csproj.AssemblyReference.cache
+C:\Users\nmdai\Desktop\SDKDemoFull\API3.SDK\API3.SDK\bin\Debug\API3.SDK.dll
+C:\Users\nmdai\Desktop\SDKDemoFull\API3.SDK\API3.SDK\bin\Debug\API3.SDK.pdb
+C:\Users\nmdai\Desktop\SDKDemoFull\API3.SDK\API3.SDK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nmdai\Desktop\SDKDemoFull\API3.SDK\API3.SDK\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nmdai\Desktop\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.csprojResolveAssemblyReference.cache
+C:\Users\nmdai\Desktop\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.Properties.Resources.resources
+C:\Users\nmdai\Desktop\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.csproj.GenerateResource.Cache
+C:\Users\nmdai\Desktop\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.dll
+C:\Users\nmdai\Desktop\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.pdb
+D:\MISA\SDK\SDKDemoFull\API3.SDK\API3.SDK\bin\Debug\API3.SDK.dll
+D:\MISA\SDK\SDKDemoFull\API3.SDK\API3.SDK\bin\Debug\API3.SDK.pdb
+D:\MISA\SDK\SDKDemoFull\API3.SDK\API3.SDK\bin\Debug\Newtonsoft.Json.dll
+D:\MISA\SDK\SDKDemoFull\API3.SDK\API3.SDK\bin\Debug\Newtonsoft.Json.xml
+D:\MISA\SDK\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.Properties.Resources.resources
+D:\MISA\SDK\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.csproj.GenerateResource.cache
+D:\MISA\SDK\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.csproj.CoreCompileInputs.cache
+D:\MISA\SDK\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.csproj.CopyComplete
+D:\MISA\SDK\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.dll
+D:\MISA\SDK\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.pdb
+C:\Users\khanh\Downloads\SDKDemoFull\API3.SDK\API3.SDK\bin\Debug\API3.SDK.dll
+C:\Users\khanh\Downloads\SDKDemoFull\API3.SDK\API3.SDK\bin\Debug\API3.SDK.pdb
+C:\Users\khanh\Downloads\SDKDemoFull\API3.SDK\API3.SDK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\khanh\Downloads\SDKDemoFull\API3.SDK\API3.SDK\bin\Debug\Newtonsoft.Json.xml
+C:\Users\khanh\Downloads\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.csprojAssemblyReference.cache
+C:\Users\khanh\Downloads\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.Properties.Resources.resources
+C:\Users\khanh\Downloads\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.csproj.GenerateResource.cache
+C:\Users\khanh\Downloads\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.csproj.CoreCompileInputs.cache
+C:\Users\khanh\Downloads\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.csproj.CopyComplete
+C:\Users\khanh\Downloads\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.dll
+C:\Users\khanh\Downloads\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.pdb
+D:\SDK\SDKDemoFull\API3.SDK\API3.SDK\bin\Debug\API3.SDK.dll
+D:\SDK\SDKDemoFull\API3.SDK\API3.SDK\bin\Debug\API3.SDK.pdb
+D:\SDK\SDKDemoFull\API3.SDK\API3.SDK\bin\Debug\Newtonsoft.Json.dll
+D:\SDK\SDKDemoFull\API3.SDK\API3.SDK\bin\Debug\Newtonsoft.Json.xml
+D:\SDK\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.Properties.Resources.resources
+D:\SDK\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.csproj.GenerateResource.cache
+D:\SDK\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.csproj.CoreCompileInputs.cache
+D:\SDK\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.csproj.CopyComplete
+D:\SDK\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.dll
+D:\SDK\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.pdb
+C:\Users\NMDAI\Desktop\SDKDemoFull.7z\SDKDemoFull\API3.SDK\API3.SDK\bin\Debug\API3.SDK.dll
+C:\Users\NMDAI\Desktop\SDKDemoFull.7z\SDKDemoFull\API3.SDK\API3.SDK\bin\Debug\API3.SDK.pdb
+C:\Users\NMDAI\Desktop\SDKDemoFull.7z\SDKDemoFull\API3.SDK\API3.SDK\bin\Debug\Newtonsoft.Json.dll
+C:\Users\NMDAI\Desktop\SDKDemoFull.7z\SDKDemoFull\API3.SDK\API3.SDK\bin\Debug\Newtonsoft.Json.xml
+C:\Users\NMDAI\Desktop\SDKDemoFull.7z\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.csproj.AssemblyReference.cache
+C:\Users\NMDAI\Desktop\SDKDemoFull.7z\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.Properties.Resources.resources
+C:\Users\NMDAI\Desktop\SDKDemoFull.7z\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.csproj.GenerateResource.cache
+C:\Users\NMDAI\Desktop\SDKDemoFull.7z\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.csproj.CoreCompileInputs.cache
+C:\Users\NMDAI\Desktop\SDKDemoFull.7z\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.csproj.CopyComplete
+C:\Users\NMDAI\Desktop\SDKDemoFull.7z\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.dll
+C:\Users\NMDAI\Desktop\SDKDemoFull.7z\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.pdb

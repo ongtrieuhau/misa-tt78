@@ -1,0 +1,10 @@
+D:\MISA JSC\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\obj\Debug\MISA.MeInvoice.SDK.Properties.Resources.resources
+D:\MISA JSC\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\obj\Debug\MISA.MeInvoice.SDK.csproj.GenerateResource.cache
+D:\MISA JSC\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\obj\Debug\MISA.MeInvoice.SDK.csproj.CoreCompileInputs.cache
+D:\MISA JSC\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\bin\Debug\MISA.MeInvoice.SDK.dll
+D:\MISA JSC\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\bin\Debug\MISA.MeInvoice.SDK.pdb
+D:\MISA JSC\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\bin\Debug\Newtonsoft.Json.dll
+D:\MISA JSC\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\bin\Debug\Newtonsoft.Json.xml
+D:\MISA JSC\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\obj\Debug\MISA.MeInvoice.SDK.csproj.CopyComplete
+D:\MISA JSC\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\obj\Debug\MISA.MeInvoice.SDK.dll
+D:\MISA JSC\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\MISA.MeInvoice.SDK\obj\Debug\MISA.MeInvoice.SDK.pdb

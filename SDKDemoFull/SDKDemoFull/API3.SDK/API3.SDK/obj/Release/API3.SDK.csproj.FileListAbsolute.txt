@@ -1,0 +1,22 @@
+D:\MISA JSC\API3.SDK\API3.SDK\API3.SDK\obj\Release\API3.SDK.csproj.GenerateResource.cache
+D:\MISA JSC\API3.SDK\API3.SDK\API3.SDK\obj\Release\API3.SDK.csproj.CoreCompileInputs.cache
+D:\MISA JSC\API3.SDK\API3.SDK\API3.SDK\bin\Release\Newtonsoft.Json.dll
+D:\MISA JSC\API3.SDK\API3.SDK\API3.SDK\bin\Release\Newtonsoft.Json.xml
+D:\MISA JSC\API3.SDK\API3.SDK\API3.SDK\obj\Release\API3.SDK.csproj.CopyComplete
+D:\MISA JSC\API3.SDK\API3.SDK\API3.SDK\bin\Release\API3.SDK.dll
+D:\MISA JSC\API3.SDK\API3.SDK\API3.SDK\bin\Release\API3.SDK.pdb
+D:\MISA JSC\API3.SDK\API3.SDK\API3.SDK\obj\Release\API3.SDK.csproj.AssemblyReference.cache
+D:\MISA JSC\API3.SDK\API3.SDK\API3.SDK\obj\Release\API3.SDK.Properties.Resources.resources
+D:\MISA JSC\API3.SDK\API3.SDK\API3.SDK\obj\Release\API3.SDK.dll
+D:\MISA JSC\API3.SDK\API3.SDK\API3.SDK\obj\Release\API3.SDK.pdb
+D:\Project\API3.SDK\API3.SDK\bin\Release\API3.SDK.dll
+D:\Project\API3.SDK\API3.SDK\bin\Release\API3.SDK.pdb
+D:\Project\API3.SDK\API3.SDK\bin\Release\Newtonsoft.Json.dll
+D:\Project\API3.SDK\API3.SDK\bin\Release\Newtonsoft.Json.xml
+D:\Project\API3.SDK\API3.SDK\obj\Release\API3.SDK.Properties.Resources.resources
+D:\Project\API3.SDK\API3.SDK\obj\Release\API3.SDK.csproj.GenerateResource.cache
+D:\Project\API3.SDK\API3.SDK\obj\Release\API3.SDK.csproj.CoreCompileInputs.cache
+D:\Project\API3.SDK\API3.SDK\obj\Release\API3.SDK.csproj.CopyComplete
+D:\Project\API3.SDK\API3.SDK\obj\Release\API3.SDK.dll
+D:\Project\API3.SDK\API3.SDK\obj\Release\API3.SDK.pdb
+D:\Project\API3.SDK\API3.SDK\obj\Release\API3.SDK.csproj.AssemblyReference.cache
