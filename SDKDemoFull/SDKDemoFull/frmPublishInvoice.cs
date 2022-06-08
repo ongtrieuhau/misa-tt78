@@ -38,21 +38,21 @@ namespace SDKDemo
         {
             InitializeComponent();
             // Tạo đối tượng hóa đơn chưa phát hành
-            InvoicePublishingObject = MeInvoiceFactory.CreateInvoicePublishingClass( Session.TaxCode, Session.Token);
+            InvoicePublishingObject = MeInvoiceFactory.CreateInvoicePublishingClass(Session.TaxCode, Session.Token);
             //Tạo đối tượng hóa đơn đã phát hành
-            IInvoicePublishedObject=MeInvoiceFactory.CreateInvoicePublishedClass( Session.TaxCode, Session.Token);
+            IInvoicePublishedObject = MeInvoiceFactory.CreateInvoicePublishedClass(Session.TaxCode, Session.Token);
             // Gán các thông tin người bán
             txtSellerTaxCode.Text = Session.TaxCode;
             txtSellerName.Text = "Công ty cổ phần MISA TEST - " + Session.TaxCode;
         }
-      
+
         /// <summary>
         /// Lấy danh sách mẫu hóa đơn
         /// </summary>
         private void InitInvoiceTemplateCombo()
         {
             // Gọi SDK để lấy về danh sách mẫu hóa đơn
-            var  oResult = InvoicePublishingObject.GetInvoiceTemplateForPublish(DateTime.Now.Year,Session.IsInvoiceCode);
+            var oResult = InvoicePublishingObject.GetInvoiceTemplateForPublish(DateTime.Now.Year, Session.IsInvoiceCode);
             // kiểm tra và gán mẫu hóa đơn cào combobox
             if (oResult.Success)
             {
@@ -69,7 +69,7 @@ namespace SDKDemo
             }
 
         }
-        
+
         /// <summary>
         /// Gán giá trị cho object hóa đơn 
         /// </summary>
@@ -84,7 +84,7 @@ namespace SDKDemo
             invoiceData.InvSeries = cboKyHieu.Text;
             invoiceData.InvDate = DateTime.Now.Date;
             // thông tin đáng dấu có phải hóa đơn nạp qua cơ quan thuế bằng bảng tổng hợp hay không
-            invoiceData.IsInvoiceSummary = false; 
+            invoiceData.IsInvoiceSummary = false;
             // thông tin người bán và người mua
             invoiceData.SellerTaxCode = txtSellerTaxCode.Text;
             invoiceData.SellerLegalName = txtSellerName.Text;
@@ -139,10 +139,10 @@ namespace SDKDemo
             // tiền nguyên tệ
             invoiceData.TotalSaleAmountOC = 150000;//tiền bán hàng nguyên tệ
             invoiceData.TotalDiscountAmountOC = 0;
-            invoiceData.TotalAmountWithoutVATOC= invoiceData.TotalSaleAmountOC - invoiceData.TotalDiscountAmountOC;// tiền trước thuế  nguyên tệ
+            invoiceData.TotalAmountWithoutVATOC = invoiceData.TotalSaleAmountOC - invoiceData.TotalDiscountAmountOC;// tiền trước thuế  nguyên tệ
             invoiceData.TotalVATAmountOC = 15000;// tiền thuế  nguyên tệ
             invoiceData.TotalAmountOC = 165000;//thành tiền nguyên tệ
-            
+
 
             invoiceData.TotalAmountInWords = SayMoney.MISASaysMoney.MISASayMoney(1522323.12M).Replace("  ", " ");
             // loại tiền và tỷ giá quy đổi
@@ -199,7 +199,7 @@ namespace SDKDemo
                 newDetail.VATAmount = newDetail.VATAmountOC * 1;
                 //thêm đối tượng detail
                 detail.Add(newDetail);
-                
+
                 bsDetail.DataSource = detail;
                 gvDetail.DataSource = bsDetail;
                 pnlSignFile.Dock = DockStyle.Bottom;
@@ -217,7 +217,7 @@ namespace SDKDemo
             try
             {
                 this.Cursor = Cursors.WaitCursor;
-           
+
                 // Khai báo đôi tượng list hóa đơn cần phát hành
                 List<OriginalInvoiceData> lstData = new List<OriginalInvoiceData>();
                 // Lấy giá trị trên form gán vào đối tượng hóa đơn
@@ -232,17 +232,17 @@ namespace SDKDemo
                 PublishInvoiceData PublishInvoiceData = new PublishInvoiceData();
                 // thêm đối tượng hóa đơn vào list hóa đơn cần phát hành
                 lstData.Add(invoiceData);
-
+                var json = Newtonsoft.Json.JsonConvert.SerializeObject(invoiceData);
                 if (rbSignDirect.Checked || rbSignServer.Checked || rbSignFile.Checked)
                 {
                     //Ký trực tiếp và ký qua server
                     // tạo hóa đơn xml dạng thô
                     InvoiceDataResult = InvoicePublishingObject.CreateInvoiceData(lstData, Session.IsInvoiceCode);
                     //kiểm trá kết quả trả về thành công không, có xml không. nếu không báo mã lỗi trả về
-                    if( InvoiceDataResult.ErrorCode =="" && InvoiceDataResult.CreateInvoiceDatas.Count > 0)
+                    if (InvoiceDataResult.ErrorCode == "" && InvoiceDataResult.CreateInvoiceDatas.Count > 0)
                     {
                         // kiểm tra lỗi trong nội dung json không có thì đem đi ký
-                        if(string.IsNullOrEmpty(InvoiceDataResult.CreateInvoiceDatas[0].ErrorCode))
+                        if (string.IsNullOrEmpty(InvoiceDataResult.CreateInvoiceDatas[0].ErrorCode))
                         {
                             // Khai báo đối tượng xml chưa xml thô được trả về
                             XmlDocument XmlData = new XmlDocument();
@@ -292,7 +292,7 @@ namespace SDKDemo
                                     return;
                                 }
                             }
-                          
+
                             // Gán giá trị cho đối tượng gọi đi phát hành
                             PublishInvoiceData.InvoiceData = XmlData.InnerXml;
                             PublishInvoiceData.RefID = InvoiceDataResult.CreateInvoiceDatas[0].RefID;
@@ -315,7 +315,7 @@ namespace SDKDemo
                         else
                         {
                             Common.ShowMessage("Tạo XML lỗi, Mã lỗi: " + InvoiceDataResult.CreateInvoiceDatas[0].ErrorCode);
-                        }    
+                        }
 
                     }
                     else
@@ -326,7 +326,7 @@ namespace SDKDemo
                 else if (rbSignHSM.Checked)
                 {
                     // Nếu ký qua HSM thì tạo đối tượng ký HSM
-                    
+
                 }
                 else
                 {
@@ -335,7 +335,7 @@ namespace SDKDemo
                 }
 
                 // kiểm tra xem hàm phát hành thành công hay chưa. nếu lỗi báo theo mã lỗi phía dưới
-                if (PublishInvoiceResult.Success && PublishInvoiceResult.ErrorCode =="")
+                if (PublishInvoiceResult.Success && PublishInvoiceResult.ErrorCode == "")
                 {
                     // đối tượng nhận kết quả khi phát hành trả về
                     List<PublishInvoice> pubResult = PublishInvoiceResult.PublishInvoices;
@@ -421,7 +421,7 @@ namespace SDKDemo
             finally
             { this.Cursor = Cursors.Default; }
         }
-       
+
         /// <summary>
         /// Xem hóa đơn chưa phát hành
         /// </summary>
@@ -435,10 +435,11 @@ namespace SDKDemo
                 if (GetLinkResult.Success && !string.IsNullOrEmpty(GetLinkResult.LinkViewInvoice))
                 {
                     System.Diagnostics.Process.Start(GetLinkResult.LinkViewInvoice);
-                }else
+                }
+                else
                 {
                     Common.ShowMessage("không lấy đươc link xem trước, mã lỗi: " + GetLinkResult.ErrorCode);
-                }    
+                }
             }
             catch (Exception ex)
             {

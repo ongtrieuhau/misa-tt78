@@ -8,7 +8,7 @@
     <OutputType>Library</OutputType>
     <RootNamespace>API3.SDK</RootNamespace>
     <AssemblyName>API3.SDK</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
     <TargetFrameworkProfile />

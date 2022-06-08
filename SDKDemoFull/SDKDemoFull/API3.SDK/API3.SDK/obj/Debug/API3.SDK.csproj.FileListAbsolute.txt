@@ -84,10 +84,10 @@ E:\CLOUDCODE\github.com\misa-tt78\SDKDemoFull\SDKDemoFull\API3.SDK\API3.SDK\bin\
 E:\CLOUDCODE\github.com\misa-tt78\SDKDemoFull\SDKDemoFull\API3.SDK\API3.SDK\bin\Debug\API3.SDK.pdb
 E:\CLOUDCODE\github.com\misa-tt78\SDKDemoFull\SDKDemoFull\API3.SDK\API3.SDK\bin\Debug\Newtonsoft.Json.dll
 E:\CLOUDCODE\github.com\misa-tt78\SDKDemoFull\SDKDemoFull\API3.SDK\API3.SDK\bin\Debug\Newtonsoft.Json.xml
-E:\CLOUDCODE\github.com\misa-tt78\SDKDemoFull\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.csprojAssemblyReference.cache
 E:\CLOUDCODE\github.com\misa-tt78\SDKDemoFull\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.Properties.Resources.resources
 E:\CLOUDCODE\github.com\misa-tt78\SDKDemoFull\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.csproj.GenerateResource.cache
 E:\CLOUDCODE\github.com\misa-tt78\SDKDemoFull\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.csproj.CoreCompileInputs.cache
 E:\CLOUDCODE\github.com\misa-tt78\SDKDemoFull\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.csproj.CopyComplete
 E:\CLOUDCODE\github.com\misa-tt78\SDKDemoFull\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.dll
 E:\CLOUDCODE\github.com\misa-tt78\SDKDemoFull\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.pdb
+E:\CLOUDCODE\github.com\misa-tt78\SDKDemoFull\SDKDemoFull\API3.SDK\API3.SDK\obj\Debug\API3.SDK.csprojAssemblyReference.cache
